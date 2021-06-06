@@ -1,0 +1,19 @@
+{
+    "name": "tal7aouy/contact",
+    "description": "you can send email to admin & save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tal7aouy",
+            "email": "talhaouycoding@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "Tal7aouy\\Contact\\": "src/"
+        }
+    },
+    "require": {}
+}
