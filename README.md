@@ -15,5 +15,9 @@ run the command in your project
 ```
 composer require tal7aouy/contact
 ```
+ then run
+```
+php artisan migrate
+```
 
 the contact package is designed by tailwindCss by default 
